@@ -7,8 +7,8 @@ https://www.udemy.com/complete-android-n-developer-course/
 - 안드로이드 N 기반에서 개발해보기
 
 ## Sections
-- [ ] 1. What Does The Course Cover? (2017.06.24)
-- [ ] 2. Introduction To Android Studio (2017.06.24)
+- [x] 1. What Does The Course Cover? (2017.06.24)
+- [x] 2. Introduction To Android Studio (2017.06.24)
 - [ ] 3. Java Deep Dive
 - [ ] 4. Media: Images, Video and Sound
 - [ ] 5. Advanced Android Features
