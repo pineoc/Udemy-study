@@ -9,7 +9,7 @@ https://www.udemy.com/complete-android-n-developer-course/
 ## Sections
 - [x] 1. What Does The Course Cover? (2017.06.24)
 - [x] 2. Introduction To Android Studio (2017.06.24)
-- [x] 3. Java Deep Dive
+- [x] 3. Java Deep Dive (2017.07.07)
 - [ ] 4. Media: Images, Video and Sound
 - [ ] 5. Advanced Android Features
 - [ ] 6. Maps & Geolocation
